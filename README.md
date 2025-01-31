@@ -16,6 +16,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" height="50" width="40" >
+    <img alt="Java" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  
 </p>
 
 
